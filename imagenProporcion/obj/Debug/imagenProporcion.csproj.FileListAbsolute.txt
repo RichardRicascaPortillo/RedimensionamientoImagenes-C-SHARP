@@ -1,0 +1,10 @@
+D:\DESARROLLO\imagenProporcion\imagenProporcion\bin\Debug\imagenProporcion.exe.config
+D:\DESARROLLO\imagenProporcion\imagenProporcion\bin\Debug\imagenProporcion.exe
+D:\DESARROLLO\imagenProporcion\imagenProporcion\bin\Debug\imagenProporcion.pdb
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.csprojAssemblyReference.cache
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.Form1.resources
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.Properties.Resources.resources
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.csproj.GenerateResource.cache
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.csproj.CoreCompileInputs.cache
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.exe
+D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.pdb
