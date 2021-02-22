@@ -201,7 +201,6 @@ namespace imagenProporcion
             this.txDestino.Name = "txDestino";
             this.txDestino.Size = new System.Drawing.Size(518, 22);
             this.txDestino.TabIndex = 16;
-            this.txDestino.Text = "D:\\RESULTADOS";
             // 
             // btnDestino
             // 

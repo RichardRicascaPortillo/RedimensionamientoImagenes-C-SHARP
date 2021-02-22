@@ -8,3 +8,13 @@ D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.cspro
 D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.csproj.CoreCompileInputs.cache
 D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.exe
 D:\DESARROLLO\imagenProporcion\imagenProporcion\obj\Debug\imagenProporcion.pdb
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\bin\Debug\imagenProporcion.exe.config
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\bin\Debug\imagenProporcion.exe
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\bin\Debug\imagenProporcion.pdb
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.csprojAssemblyReference.cache
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.Form1.resources
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.Properties.Resources.resources
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.csproj.GenerateResource.cache
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.csproj.CoreCompileInputs.cache
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.exe
+C:\GitHub\RedimensionamientoImagenes-C-SHARP\imagenProporcion\obj\Debug\imagenProporcion.pdb
